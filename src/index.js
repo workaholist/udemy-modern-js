@@ -171,6 +171,6 @@
 // console.log(fee);
 
 // && は左側がtrueなら右側を返す
-const num2 = null;
-const fee2 = num2 && "何か設定されました";
-console.log(fee2);
+// const num2 = null;
+// const fee2 = num2 && "何か設定されました";
+// console.log(fee2);
