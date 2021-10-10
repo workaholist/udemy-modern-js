@@ -101,5 +101,5 @@
 
 const myProfile = ["安村", 42];
 const [name, age] = myProfile;
-const message3 = `名前は${name}です。年齢は${age}です。`;
-console.log(message3);
+const message4 = `名前は${name}です。年齢は${age}です。`;
+console.log(message4);
