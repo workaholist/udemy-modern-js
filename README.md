@@ -1,2 +1,2 @@
-# udemy-modern-js
+# modern-js
 Created with CodeSandbox
